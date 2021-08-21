@@ -1,12 +1,13 @@
-<img src="https://i.imgur.com/RGUTpaA.png" width="800" height="400"/>
-<h1>Hi, I’m Rocooo</h1>
+<p align="center">
+  <img src="https://i.imgur.com/RGUTpaA.png" width="800" height="400"/>
+</p>
+<h1  align="center">Hi, I’m Rocooo</h1>
 
-<p>i'm coding in <b>html</b> and littlebit on <b>java</b></p>
-<p>also i'm very cool man</p>
-<hr>
+<p align="center"><b>i'm coding in html and littlebit on java</b></p>
+<p align="center"><b>also i'm very cool man</b></p>
 
-- <b>👨‍💻 I’m currently learning java</b>
+## 
 
-- <b>📫 You can reach me on my discord <a href="https://discordapp.com/users/739418931051102239">here</a></b>
+<p align="center"><b>👨‍💻 I’m currently learning java</b></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><b>📫 You can reach me on my discord <a href="https://discordapp.com/users/739418931051102239">here</a></b></p>
