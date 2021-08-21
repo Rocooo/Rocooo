@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/BqLWk5T.png" width="1920" height="1080"/>
+<img src="https://i.imgur.com/RGUTpaA.png" width="800" height="400"/>
 <h1>Hi, I’m Rocooo</h1>
 
 <p>i'm coding in html and littlebit on java</p>
