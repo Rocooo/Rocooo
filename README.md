@@ -3,6 +3,7 @@
 
 <p>i'm coding in <b>html</b> and littlebit on <b>java</b></p>
 <p>also i'm very cool man</p>
+<hr>
 
 - 👨‍💻 I’m currently learning java
 
