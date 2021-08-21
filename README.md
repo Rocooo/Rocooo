@@ -10,4 +10,4 @@
 
 <p align="center"><b>👨‍💻 I’m currently learning java</b></p>
 
-<p align="center"><b>📫 You can reach me on my discord <a href="https://discordapp.com/users/739418931051102239" target="_blank">here</a></b></p>
+<p align="center"><b>📫 You can reach me on my discord <a href="https://discordapp.com/users/739418931051102239">here</a></b></p>
