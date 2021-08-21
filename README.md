@@ -5,6 +5,6 @@
 <p>also i'm very cool man</p>
 <hr>
 
-- 👨‍💻 I’m currently learning java
+- <b>👨‍💻 I’m currently learning java</b>
 
-- 📫 You can reach me on my discord <a href="https://discordapp.com/users/739418931051102239">here</a>
+- <b>📫 You can reach me on my discord <a href="https://discordapp.com/users/739418931051102239">here</a></b>
