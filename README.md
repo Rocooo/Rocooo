@@ -3,7 +3,7 @@
 </p>
 <h1  align="center">Hi, I’m Rocooo</h1>
 
-<p align="center"><b>i'm coding in html and littlebit on java</b></p>
+<p align="center"><b>i'm coding in html and littlebit on C#</b></p>
 <p align="center"><b>also i'm very cool man</b></p>
 
 ## 
