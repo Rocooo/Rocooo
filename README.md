@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/upzyvuQ.png" width="800" height="400"/>
+<p style="border-radius: 20px;" align="center">
+  <img src="https://i.imgur.com/xRPueLA.png" height="500"/>
 </p>
 <h1  align="center">Hi, I’m Rocooo</h1>
 
