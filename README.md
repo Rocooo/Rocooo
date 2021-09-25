@@ -16,7 +16,7 @@ I'm Ron known as Rocooo and I'm a bots programmer for Discord, a designer and al
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Csharp Badge](https://img.shields.io/badge/-c_sharp-A076DC?style=for-the-badge&labelColor=black&logo=csharp&logoColor=A076DC)](#) [![Java Badge](https://img.shields.io/badge/-Java-5582A3?style=for-the-badge&labelColor=black&logo=java&logoColor=5582A3)](#)
+[![Csharp Badge](https://img.shields.io/badge/-c_sharp-A076DC?style=for-the-badge&labelColor=black&logo=csharp&logoColor=A076DC)](#) [![Java Badge](https://img.shields.io/badge/-Java-5582A3?style=for-the-badge&labelColor=black&logo=java&logoColor=5582A3)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=image&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-285EA8?style=for-the-badge&labelColor=black&logo=image&logoColor=285EA8)](#)
 
 
 
