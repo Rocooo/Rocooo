@@ -2,6 +2,8 @@
 
 I'm Ron known as Rocooo and I'm a bots programmer for Discord, a designer and also a web programmer, hope I was interested in you!
 
+ I built a website for myself, [visit it!](https://rocooo.rf.gd/)
+
 :mailbox: Reach me out!
 
 [![Discord Badge](https://img.shields.io/badge/Rocooo-5769E9?style=flat&labelColor=5769E9&logo=discord&logoColor=white)](https://discordapp.com/users/739418931051102239) [![Youtube Badge](https://img.shields.io/badge/-Rocooo-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyhHa-u7lfUgJPFh2xH7FzA) [![Instegram Badge](https://img.shields.io/badge/@RonCohen-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_.roncohen._/)
