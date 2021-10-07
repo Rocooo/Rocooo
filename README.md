@@ -7,6 +7,7 @@
          <img align="center" src="https://i.imgur.com/jfz4A3h.png" width="40%"/></a><br/>
     <br>
     <br>
+      <p align="center"><b>Friend server:</b></p>
             <a href="https://discord.gg/KV3x52NNfZ"><img align="center" src="https://discordapp.com/api/guilds/888477617970348122/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
          <br/>
