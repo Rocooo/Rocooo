@@ -15,6 +15,10 @@
          <br/>
          - 📫 You can reach me: <a href="https://discord.com/users/739418931051102239">Here</a> on Discord -
          <br/>
+         - 💻 Most used line of code: <b>System.out.println("Hello World")</b> -
+         <br/>
+         - ⚡ Fun fact: I play games and go to the GYM very often. -
+         <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocooo&theme=radical&hide_border=true" />
          </p>  
