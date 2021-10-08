@@ -6,19 +6,17 @@
          <p align="center">    
          <img align="center" src="https://i.imgur.com/jfz4A3h.png" width="40%"/></a><br/>
     <br>
-    <br>
       <p align="center"><b>Friend server:</b></p>
-            <a href="https://discord.gg/KV3x52NNfZ"><img align="center" src="https://discordapp.com/api/guilds/888477617970348122/widget.png?style=banner2" alt="Discord Banner2"/></a>
-         <br/><br/>
-         <br/>
-         - 🔭 I’m currently learning <strong>java html and css</strong> -
+            <p align="center"><a href="https://discord.gg/KV3x52NNfZ"><img src="https://discordapp.com/api/guilds/888477617970348122/widget.png?style=banner2" alt="Discord Banner2"/></a></p>
+         <p align="center">- 🔭 I’m currently learning <strong>java html and css</strong> -
          <br/>
          - 📫 You can reach me: <a href="https://discord.com/users/739418931051102239">Here</a> on Discord -
          <br/>
          - 💻 Most used line of code: <b>System.out.println("Hello World")</b> -
          <br/>
          - ⚡ Fun fact: I play games and go to the GYM very often. -
-         <br/>
+            <br/></p>
+      <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocooo&theme=radical&hide_border=true" />
          </p>  
