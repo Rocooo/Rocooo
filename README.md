@@ -1,8 +1,4 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Rocooo!</h2>
-<p align="center"><img src="https://lucknowgraphics.com/wp-content/uploads/2020/09/web-development-in-Lucknow-994x1024.png" width="50%"></p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Rocooo/count.svg" />
-</p>
+<h1 align="center">👋 Hello I'm Rocooo! Welcome to my Github.</h1>
 <table align="center">
    <tr>
       <td>
